@@ -1,7 +1,5 @@
 # README
 
-------------------
-
 [Télécharger la présentation (depuis l'Insee)](https://git.stable.innovation.insee.eu/formation/r_dev/raw/master/presentation/presentation.pdf)
 
 Ce dépôt contient le code source de la présentation sur le développement de *packages* avec RStudio et git donnée à la Division Sondages de l'Insee en avril 2018. 
