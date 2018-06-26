@@ -373,14 +373,15 @@ De nombreuses plateformes se sont construites autour de git pour faciliter le tr
 
 ## Commencer avec git: *clone*
 
-Une dernière fonctionnalité non-négligeable des plateformes du type github.com ou gitlab est de simplifier l'initialisation d'un dépôt git. 
+Une dernière fonctionnalité non-négligeable des plateformes est de simplifier l'initialisation d'un dépôt git. 
 
 \pause En effet, il est souvent plus simple de \og cloner \fg{} un projet depuis une de ces plateformes que de le créer de toute pièce en local.
 
 \pause \begin{center}
-\includegraphics[height=4.5cm]{clone_gustave.png}
+\includegraphics[height=4cm]{clone_gustave.png}
 \end{center}
 
+\vspace{-0.2cm} \intertitre{Remarque} Pour obtenir ce menu: File > New project > Version control > Git.
 
 ## Conclusion
 
